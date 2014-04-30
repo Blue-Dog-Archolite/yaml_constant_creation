@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.authors = ["Robert R. Meyer"]
   s.date = "2014-04-30"
-  s.description = "TODO: longer description of your gem"
+  s.description = "Parses yaml files in a given diretory and turns them into constants with methods"
   s.email = "Blue.Dog.Archolite@gmail.com"
   s.extra_rdoc_files = [
     "LICENSE",
