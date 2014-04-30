@@ -45,7 +45,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/Blue-Dog-Archolite/yaml_constant_creation"
   s.licenses = ["MIT"]
   s.rubygems_version = "2.2.2"
-  s.summary = "TODO: one-line summary of your gem"
+  s.summary = "Store constants in yaml easier"
 
   if s.respond_to? :specification_version then
     s.specification_version = 4
