@@ -1,0 +1,15 @@
+production:
+  first_value: this is production!
+
+development:
+  first_value: this is development!
+  magic:
+    # This is a hash with an array as a key
+    ? - :k
+      - :j
+      - :l
+    : 1234
+  second_value: only in development!
+
+test:
+  first_value: this is test!
